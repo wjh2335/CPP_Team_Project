@@ -1,3 +1,5 @@
-# 제작중인 녹음기 소스코드입니다.
+# 관련 링크
 
-[녹음기](https://github.com/wjh2335/App1)
+[WooSuRecorder](github.com/wjh2335/WooSuRecord)
+[DMRecorder](github.com/dimohy/DMRecorder)
+[cpp-winui sample](github.com/microsoft/WindowsAppSDK-Samples/tree/main/Samples/Windowing/cpp-winui)

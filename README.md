@@ -1,4 +1,4 @@
-# 2019-Statistics
+# CPP_Team_Project
 3학년 1학기 C++ 프로그래밍 수업 종합 팀 과제
 
 # 관련 링크
